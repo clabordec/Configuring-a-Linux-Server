@@ -1,4 +1,4 @@
-# Configuring-a-Linux-Server
+# Configuring a Linux Server
 
 <br>
 
