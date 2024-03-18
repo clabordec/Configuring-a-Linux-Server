@@ -38,11 +38,6 @@ Monitoring and alerting system configured to track server performance metrics an
 Backup and recovery solution implemented to safeguard critical data and minimize downtime.
 
 <br>
-
-### Conclusion:
-Configuring a Linux server is a critical aspect of maintaining a robust and reliable IT infrastructure. By following this project's guidelines and best practices, Linux system administrators can effectively configure and manage servers to meet organizational needs while ensuring optimal performance, security, and scalability.
-
-<br>
 <br>
 
 Distro: Ubuntu
