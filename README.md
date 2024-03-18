@@ -16,16 +16,16 @@ The primary objective of this project is to equip Linux system administrators wi
 
 ### Key Components:
 
-<b>Server Provisioning</b>: Selecting the appropriate hardware or virtual machine resources for the server's workload. <br>
-<b>Operating System Installation</b>: Installing a suitable Linux distribution and configuring basic system settings. <br>
-<b>Package Management</b>: Managing software packages using package managers such as apt, yum, or dnf. <br>
-<b>Network Configuration</b>: Configuring network interfaces, IP addressing, DNS settings, and firewall rules. <br>
-<b>Service Configuration</b>: Setting up and configuring services such as Apache, Nginx, MySQL, PostgreSQL, SSH, etc. <br>
-<b>Security Hardening</b>: Implementing security best practices, including user management, access control, encryption, and intrusion detection. <br>
-<b>Monitoring and Logging</b>: Configuring monitoring tools and logging services to track server performance and detect anomalies. <br>
-<b>Backup and Recovery</b>: Developing backup strategies and implementing recovery procedures to ensure data integrity and availability. <br>
-<b>Automation</b>: Leveraging automation tools like Ansible, Puppet, or Chef to streamline server configuration and maintenance tasks. <br>
-<b>Documentation</b>: Documenting configurations, procedures, and troubleshooting steps to facilitate knowledge sharing and future reference. <br>
+- <b>Server Provisioning</b>: Selecting the appropriate hardware or virtual machine resources for the server's workload. <br>
+- <b>Operating System Installation</b>: Installing a suitable Linux distribution and configuring basic system settings. <br>
+- <b>Package Management</b>: Managing software packages using package managers such as apt, yum, or dnf. <br>
+- <b>Network Configuration</b>: Configuring network interfaces, IP addressing, DNS settings, and firewall rules. <br>
+- <b>Service Configuration</b>: Setting up and configuring services such as Apache, Nginx, MySQL, PostgreSQL, SSH, etc. <br>
+- <b>Security Hardening</b>: Implementing security best practices, including user management, access control, encryption, and intrusion detection. <br>
+- <b>Monitoring and Logging</b>: Configuring monitoring tools and logging services to track server performance and detect anomalies. <br>
+- <b>Backup and Recovery</b>: Developing backup strategies and implementing recovery procedures to ensure data integrity and availability. <br>
+- <b>Automation</b>: Leveraging automation tools like Ansible, Puppet, or Chef to streamline server configuration and maintenance tasks. <br>
+- <b>Documentation</b>: Documenting configurations, procedures, and troubleshooting steps to facilitate knowledge sharing and future reference. <br>
 
 <br>
 
