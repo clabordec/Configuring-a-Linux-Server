@@ -4,9 +4,6 @@
 
 ## Project Overview
 
-
-Project Overview: Configuring a Linux Server
-
 ### Introduction:
 Configuring a Linux server is a fundamental task for any Linux system administrator. This project aims to provide a comprehensive guide for setting up and configuring a Linux server environment tailored to specific requirements. Whether it's a web server, database server, application server, or any other type of server, proper configuration is essential for optimal performance, security, and reliability.
 
