@@ -10,7 +10,7 @@ Configuring a Linux server is a fundamental task for any Linux system administra
 <br>
 
 ### Objective:
-The primary objective of this project is to equip Linux system administrators with the knowledge and skills needed to effectively configure a Linux server to meet organizational needs. This involves understanding the server's purpose, selecting appropriate software and services, optimizing performance, implementing security measures, and maintaining the server over time.
+The primary objective of this project is to effectively configure a Linux server to meet organizational needs. This involves understanding the server's purpose, selecting appropriate software and services, optimizing performance, implementing security measures, and maintaining the server over time.
 
 <br>
 
