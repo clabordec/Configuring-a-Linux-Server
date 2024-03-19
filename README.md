@@ -27,11 +27,11 @@ The primary objective of this project is to effectively configure a Linux server
 
 ### Deliverables:
 
-Comprehensive documentation outlining the server's purpose, configuration details, and operational procedures.
-Configured Linux server environment tailored to specific requirements, including installed software, network settings, and security measures.
-Automated scripts or playbooks for repetitive configuration tasks, enhancing efficiency and consistency.
-Monitoring and alerting system configured to track server performance metrics and security events.
-Backup and recovery solution implemented to safeguard critical data and minimize downtime.
+- Comprehensive documentation outlining the server's purpose, configuration details, and operational procedures.
+- Configured Linux server environment tailored to specific requirements, including installed software, network settings, and security measures.
+- Automated scripts or playbooks for repetitive configuration tasks, enhancing efficiency and consistency.
+- Monitoring and alerting system configured to track server performance metrics and security events.
+- Backup and recovery solution implemented to safeguard critical data and minimize downtime.
 
 <br>
 <br>
