@@ -41,4 +41,4 @@ By leveraging the resources and expertise provided in the Configuring a Linux Se
 
 <br>
 
-Distro: Ubuntu
+Linux Distribution: Ubuntu
