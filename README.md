@@ -30,12 +30,12 @@ The Configuring a Linux Server repository serves as a comprehensive resource for
 
 ### Project Goals 
 
-- Optimizing infrastructure costs
-- Improving system stability and reliability
-- Enhancing security and compliance posture
-- Enabling scalability and flexibility
-- Streamlining operations and maintenance
-- Accelerating time-to-market for products and services
+- Optimize infrastructure costs
+- Improve system stability and reliability
+- Enhance security and compliance posture
+- Enable scalability and flexibility
+- Streamline operations and maintenance
+- Accelerate time-to-market for products and services
 
 <br>
 
