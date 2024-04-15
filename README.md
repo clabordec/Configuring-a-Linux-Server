@@ -44,5 +44,5 @@ By leveraging the resources and expertise provided in the Configuring a Linux Se
 
 <br>
 
-Linux Distribution: Ubuntu
+Linux Distribution: Ubuntu <br>
 Version: 22.04
