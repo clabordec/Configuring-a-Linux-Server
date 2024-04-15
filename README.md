@@ -45,3 +45,4 @@ By leveraging the resources and expertise provided in the Configuring a Linux Se
 <br>
 
 Linux Distribution: Ubuntu
+Version: 22.04
