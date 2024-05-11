@@ -39,10 +39,5 @@ The Configuring a Linux Server repository serves as a comprehensive resource for
 
 <br>
 
-By leveraging the resources and expertise provided in the Configuring a Linux Server repository, Linux system administrators can streamline the server setup process, improve server performance and security, and ensure the stability and reliability of their server infrastructure.
-
-
-<br>
-
 Linux Distribution: Ubuntu <br>
 Version: 22.04
