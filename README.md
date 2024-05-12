@@ -42,4 +42,5 @@ The Configuring a Linux Server repository serves as a comprehensive resource for
 ### Tools
 
 Linux Distribution: Ubuntu <br>
-Version: 22.04
+Version: 22.04 <br>
+Cloud Enviroment: DigitalOcean
