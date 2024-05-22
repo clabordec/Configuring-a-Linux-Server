@@ -4,7 +4,7 @@ The Configuring a Linux Server repository serves as a comprehensive resource for
 
 <br>
 
-### Key Features and Components:
+### Key Features and Components
 
 - <b>Server Setup and Installation</b>: Documentation and step-by-step guides for installing and configuring various Linux distributions, including server editions such as Ubuntu Server, CentOS, or Debian.
 
