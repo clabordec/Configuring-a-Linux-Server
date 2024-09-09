@@ -1,4 +1,4 @@
-### Introduction
+# Introduction
 
 The Configuring a Linux Server repository serves as a comprehensive resource for Linux system administrators seeking guidance on configuring, optimizing, and managing Linux servers. This project aims to provide detailed documentation, configuration examples, and best practices to enable system administrators to set up and maintain robust and secure Linux server environments for various use cases.
 
